@@ -11,7 +11,7 @@ I am a researcher in combinatorics and a associate professor in computer science
 
 * I teach basic computer science at undergrad level (programming, algorithmic,...) and also occasionally combinatorics, Sage, and other topics at all levels.
 
-* I am an active user and contributor to the mathematical software [SageMath](http://www.sagemath.org/) and an enthusiastic user of the platform [SageMathCloud](http://www.sagemath.org/).
+* I am an active user and contributor to the mathematical software [SageMath](http://www.sagemath.org/) and an enthusiastic user of the platform [SageMathCloud](https://cloud.sagemath.com/).
 
 * I have a strong interest in the Python language and community and more generally in the OpenSource community, especially around science.
 
