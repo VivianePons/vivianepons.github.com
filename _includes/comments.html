@@ -26,7 +26,7 @@
 
 
 <form action="http://pooleapp.com/stash/{{ site.poole-api-key }}/" method="post" name="commentForm" id="commentForm" novalidate>
-    <input type="hidden" name="redirect_to" value="{{ site.url }}{{ page.url }}#success" />
+    <input type="hidden" name="redirect_to" value="{{ page.url }}#success" />
     <input type="hidden" name="path" value="{{ page.url }}" />
     <h2>Leave your comment</h2>
     <p><strong>Comments are stored through <a href="http://pooleapp.com/">Pooleapp</a>, manually reviewed and pushed to the page. Don't expect your comment to appear right after you posted it!</strong></p>
