@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Hello World!"
-subtitle:   "Fist post"
+subtitle:   "First post"
 date:       2015-11-29 23:40:00
 author:     "Viviane"
 ---
