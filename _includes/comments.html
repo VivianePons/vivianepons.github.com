@@ -3,13 +3,14 @@
 <div class="comments">
   {% for comment in site.data.comments.sessions %}
     {% if comment.path == page.url %}
+
     <div class="row">
         <div class="comment-content">
           {{ comment.comment }}
         </div>
         <div class="comment-meta">
             On <time datetime="{{ comment.created | date_to_xmlschema }}">{{ comment.created | date_to_long_string  }}</time> by
-            {% if comment.url %}
+            {% if comment.url != "" %}
         <a href="{{ comment.url }}" class="commenter">{{ comment.name }}</a>
       {% else %}
         <span class="commenter">{{ comment.name }}</span>
