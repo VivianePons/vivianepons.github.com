@@ -26,7 +26,7 @@
 
 
 <form action="http://pooleapp.com/stash/{{ site.poole-api-key }}/" method="post" name="commentForm" id="commentForm" novalidate>
-    <input type="hidden" name="redirect_to" value="{{ page.url }}#success" />
+    <input type="hidden" name="redirect_to" value="{{ site.url }}{{ page.url }}#success" />
     <input type="hidden" name="path" value="{{ page.url }}" />
     <h2>Leave your comment</h2>
     <div class="row control-group">
