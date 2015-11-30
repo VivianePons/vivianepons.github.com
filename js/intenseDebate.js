@@ -1,3 +1,4 @@
+alert("Test");
 if(document.getElementById("IDCommentsPostTitle") && document.getElementById("IDCommentsPostTitle").innerHTML.length>0)
     idcomments_post_title = document.getElementById("IDCommentsPostTitle").innerHTML;
 else
@@ -17,4 +18,5 @@ idcomments_post_title = encodeURIComponent(idcomments_post_title);
 var commentScript = document.createElement("script");
 commentScript.type = "text/javascript";
 commentScript.src = "https://intensedebate.com/js/genericCommentWrapper2.php?acct="+idcomments_acct+"&postid="+idcomments_post_id+"&title="+idcomments_post_title+"&url="+idcomments_post_url;
+alert(commentScript.src);
 document.getElementsByTagName("head")[0].appendChild(commentScript);
