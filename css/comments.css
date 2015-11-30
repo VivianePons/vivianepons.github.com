@@ -1,0 +1,14 @@
+
+.comments .row {
+    border-top: 1px solid #eeeeee;
+}
+
+
+.comments .comment-meta {
+    font-size: 12px;
+    color: #777;
+}
+
+.comments .comment-content {
+    padding: 5px;
+}

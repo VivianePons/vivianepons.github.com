@@ -1,12 +1,14 @@
 # Site settings
 title: OpenPyViv
 header-img: img/home-bg.jpg
+header-gradient: "linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6))"
 email: viviane.pons@lri.fr
 description: "A blog about research, math, progamming and whatever I feel like talking about... "
 baseurl: ""
 url: "http://vivianepons.github.io"
 twitter_username: PyViv
 github_username:  VivianePons
+poole-api-key: "fabc1e48-5086-4863-b557-e526c520672c"
 
 # Build settings
 markdown: kramdown
