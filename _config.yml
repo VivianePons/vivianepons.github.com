@@ -9,10 +9,9 @@ url: "http://openpyviv.com/"
 twitter_username: PyViv
 github_username:  VivianePons
 poole-api-key: "fabc1e48-5086-4863-b557-e526c520672c"
-gems: [jekyll-paginate, redcarpet]
+gems: [jekyll-paginate]
 
 # Build settings
-markdown: redcarpet
 permalink: pretty
 paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
