@@ -13,6 +13,8 @@ I am a researcher in combinatorics and a associate professor in computer science
 
 * I am an active user and contributor to the mathematical software [SageMath](http://www.sagemath.org/) and an enthusiastic user of the platform [SageMathCloud](https://cloud.sagemath.com/).
 
+* I am one of the organizers of [PyLadiesParis](http://www.pyladies.com/locations/paris/).
+
 * I have a strong interest in the Python language and community and more generally in the OpenSource community, especially around science.
 
 * I am part of the [OpenDreamKit](http://opendreamkit.org/) project as a lead partner for Paris-Sud and in charge of the dissemination work package.
