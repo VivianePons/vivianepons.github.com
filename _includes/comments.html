@@ -1,3 +1,5 @@
+{% if site.url |contains:"localhost" %}
+{% else %}
 <div id="disqus_thread"></div>
 <script>
 var disqus_config = function () {
@@ -12,3 +14,4 @@ s.setAttribute('data-timestamp', +new Date());
 })();
 </script>
 <noscript>Comments are powered by Disqus, enable javascript to see them (or just don't, I won't be mad!).</a></noscript>
+{% endif %}
