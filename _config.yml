@@ -8,8 +8,8 @@ baseurl: ""
 url: "http://openpyviv.com/"
 twitter_username: PyViv
 github_username:  VivianePons
-poole-api-key: "fabc1e48-5086-4863-b557-e526c520672c"
 gems: [jekyll-paginate]
+disqus_shortname: openpyviv
 
 # Build settings
 permalink: pretty
