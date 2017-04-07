@@ -1,71 +1,17 @@
-
-
-<div class="comments">
-  {% for comment in site.data.comments.sessions %}
-    {% if comment.path == page.url %}
-
-    <div class="row">
-        <div class="comment-content">
-          {{ comment.comment }}
-        </div>
-        <div class="comment-meta">
-            On <time datetime="{{ comment.created | date_to_xmlschema }}">{{ comment.created | date_to_long_string  }}</time> by
-            {% if comment.url != "" %}
-        <a href="{{ comment.url }}" class="commenter">{{ comment.name }}</a>
-      {% else %}
-        <span class="commenter">{{ comment.name }}</span>
-      {% endif %}
-        </div>
-
-
-    </div>
-    {% endif %}
-  {% endfor %}
-</div>
-
-
-
-<form action="http://pooleapp.com/stash/{{ site.poole-api-key }}/" method="post" name="commentForm" id="commentForm" novalidate>
-    <input type="hidden" name="redirect_to" value="{{ page.url }}#success" />
-    <input type="hidden" name="path" value="{{ page.url }}" />
-    <h2>Leave your comment</h2>
-    <p><strong>Comments are stored through <a href="http://pooleapp.com/">Pooleapp</a>, manually reviewed and pushed to the page. Don't expect your comment to appear right after you posted it!</strong></p>
-    <div class="row control-group">
-        <div class="form-group col-xs-12 floating-label-form-group controls">
-            <label>Your Name</label>
-            <input name="name" type="text" class="form-control" placeholder="Your name" id="name" required data-validation-required-message="Please enter your name.">
-            <p class="help-block text-danger"></p>
-        </div>
-    </div>
-    <div class="row control-group">
-        <div class="form-group col-xs-12 floating-label-form-group controls">
-            <label>Your Website</label>
-            <input name ="url" type="text" class="form-control" placeholder="Your Website (optional)" id="url" >
-            <p class="help-block text-danger"></p>
-        </div>
-    </div>
-    <div class="row control-group">
-        <div class="form-group col-xs-12 floating-label-form-group controls">
-            <label>Your email</label>
-            <input name="email" type="text" class="form-control" placeholder="Your email" id="email" required data-validation-required-message="Please enter your email (I won't spam you).">
-            <p class="help-block text-danger"></p>
-        </div>
-    </div>
-    <div class="row control-group">
-        <div class="form-group col-xs-12 floating-label-form-group controls">
-            <label>Your comment</label>
-            <textarea name="comment" rows="5" class="form-control" placeholder="Your comment" id="comment" required data-validation-required-message="Please enter your comment."></textarea>
-            <p class="help-block text-danger"></p>
-        </div>
-    </div>
-    <br />
-    <div id="success"></div>
-    <div class="row">
-        <div class="form-group col-xs-12">
-            <button type="submit" class="btn btn-default">Post comment</button>
-        </div>
-    </div>
-
-</form>
-
-
+{% if site.url contains "localhost"  %}
+{% else %}
+<div id="disqus_thread"></div>
+<script>
+var disqus_config = function () {
+this.page.url = "{{ site.url }}{{ page.url }}";
+this.page.identifier = "{{ page.slug }}";
+};
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://{{ site.disqus_shortname }}.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Comments are powered by Disqus, enable javascript to see them (or just don't, I won't be mad!).</a></noscript>
+{% endif %}

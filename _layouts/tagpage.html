@@ -1,0 +1,7 @@
+---
+layout: page
+---
+
+{% for post in site.tags[page.tag] %}
+    {% include post_link.html %}
+{% endfor %}
