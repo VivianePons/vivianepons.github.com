@@ -4,6 +4,9 @@ title:      "Being the only woman"
 subtitle:   "Why do I need WomenInSage and Pyladies"
 date:       2017-04-10 10:00:00
 author:     "Viviane"
+tags: 
+    - diversity
+    - point-of-view
 ---
 
 Whenever I organize a "Woman" event, I get some comments. Sometimes, it's just
