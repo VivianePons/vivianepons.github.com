@@ -98,7 +98,7 @@ in the Sage community and I believe my implication in Sage had (and still has) a
 success in research and in my career. But, there were no women.
 
 What was already quite noticeable in the math world was event more blatant in the math-dev
-world. As I said, there are not many women mathematicians (sill a few) but when you intersect that
+world. As I said, there are not many women mathematicians (still a few) but when you intersect that
 with programming and open source development, you find almost no woman at all. At
 the end of my thesis, I think I knew only one other woman in my field that was heavily involved
 in Sage. The [sage-devel](https://groups.google.com/forum/#!forum/sage-devel) mailing list
