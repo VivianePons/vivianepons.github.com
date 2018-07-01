@@ -1,0 +1,40 @@
+---
+layout:     post
+title:      "I want to do science the Colombian way"
+subtitle:   "Or: why do I care?"
+date:       2018-06-30 09:00:00
+author:     "Viviane"
+header-img: img/ECCO-2018.jpg
+tags: 
+    - diversity
+    - point-of-view
+    - academia
+---
+
+Two years ago, I attended [my first ECCO](http://math.sfsu.edu/federico/SFSUColombia/ecco.html): this wonderful combinatorics summer school organized every other year in Colombia. As you can read in [this previous post](/2016/07/12/ECCO/), I liked it a lot. [This year](http://ecco2018.combinatoria.co/) I was invited again to give the [SageMath](http://www.sagemath.org/) lectures and I accepted with great pleasure. Baranquilla was way hotter and very different from Medellin but something did not change: the great time I had both on a personal and mathematical level. To know why the conference is so great, you can re-read [my previous post](/2016/07/12/ECCO/) or [this other one from Andrés R. Vindas Meléndez](https://blogs.ams.org/mathmentoringnetwork/2018/06/22/mathematics-combinatorics-the-colombian-way-ecco-2018/). He describes there what doing "Mathematics the Colombian way" could be. 
+
+The one word that summarizes it is **inclusiveness**. Both in Medellin in 2016 and in Baranquilla in 2018, in two weeks, the organizers managed to build a strong sense of community within the participants. People of all mathematical levels and nationalities felt welcomed and at their place during the conference. Efforts are made at every step to keep the spirit: from the [community agreement](http://math.sfsu.edu/federico/SFSUColombia/eccoagreement.pdf), to the problem sessions, the lectures and the many social events. One question arose from the students: why do professors (me and others) come and teach at ECCO? They saw clearly what was the gain for them students but the reason WE would spend time and energy there was not clear to all of them. So let me tell you what I (and the scientific community as a whole) gain from that investment. Let me tell you **why I went twice to ECCO** and accepted to be part of the organizing team for the next one in Bogotá. 
+
+## How I was raised as a scientist and a person
+
+I discovered the math / CS community, and more specifically the combinatorics community, when I started to do research in 2009. There are many reasons why one chooses a research field in particular. Of course, the fact that **I loved combinatorics** (still the case) played a great role. But I could very much say: **I came for the math, I stayed for the people**. I was in a team that was supportive and welcoming, that valued my work and helped me get confidence at a time where I was not sure I could become a mathematician. The spirit between grad students was one of helping each other and not one of competition. Had it been different, I cannot say what I would have done, but it is very probable that I would not have been happy.
+
+As it was already said by some people during ECCO, I came to math as a person and the values I pursue in my life, I need to find them in my work too. This is why it felt very natural for me to engage into **open source development** and more generally to relate to the **open science** spirit. And even though I like the research and the coding a lot, I am also aware that we need more than that. We need to engage more people, to share our knowledge, to train new members of the community. This is an essential part of my work and, by doing so, I'm also following the steps of the people who trained and welcomed me when I was new.
+
+## My First ECCO and what followed
+
+About 3 years ago, a colleague of mine happened to be in the organizing team of the then up-coming [ECCO 2016](http://ecco2016.combinatoria.co/) in Medellin. He knew about my inclination to go around the world to teach Sage and suggested I should come and do just that. Because of all I have said above (and because I wanted to discover Colombia), I easily accepted. But still, like every time, it was a bet. Was it worth my time and energy? Was it worth the grant money to pay for my trip? These are questions I have to ask myself every time. Those three resources (time, money, energy) are actually quite limited and it is my duty to use them wisely. Well, this was a good bet! Not only did the Sage sessions went very well, but I had never been to such a great conference. I was **very enthusiastic** and wrote [this whole blog post](/2016/07/12/ECCO/) to point out all the excellent ideas I had seen at this conference. 
+
+After that, it was clear to me that if there was one place I wanted to invest time, money, and energy, it was at ECCO. I was invited again to come this time in Baranquilla. I was asked during the conference how it compared to the first one. More precisely, I was asked: "do you still stand by what you wrote last time or do you think Medellin was just a happy accident?". My answer was clear. Everything I said is still true, this is no accident. The spirit of the conference is kept through the years by the amazing mathematical Colombian crew who organizes it. This spirit of excellent math and great community is what Andres called in his post the **Colombian way of doing mathematics**. 
+
+## Shaping the (math) world
+
+I am now in a position where I can decide the kind of math I want to do and the way I want to do it. I have a permanent job, I organize things, I teach students, I am part of committees and stuff. I am also aware of all the limitations and defect of the academic world. I can see that it is not diverse enough, that it is not inclusive enough. I can see that not everyone get the same opportunities no matter how talented they are. I can hear the voice of people telling me they did not feel *at their place*, I can see some of my students *not* feeling at their place, *not* feeling clever enough because they don't have the right background, the right skin color or the right nationality. I won't be fixing it all, but I can fix it a little. I can help **shape the academic world** to something better and to something I like. Being part of ECCO is one step in this direction.
+
+I also know I am not alone. For the last two editions, ECCO was partially funded by the [CIMPA](https://www.cimpa.info/) organization which is doing an amazing job at supporting mathematical schools all over the world. So the students asked me: "Why do you come and teach us? Why do CIMPA give us money?". Here is my answer: because that is the kind of math community I want. When I am working in a problem session, struggling through math and language with students ranging from undergrads to post-docs, I know I'm in the right place, doing the right thing. It makes me happy in my job, it gives me the motivation and energy to continue.
+
+And it works. By doing so, by putting our energy into events such as ECCO, we train a new generation of mathematicians (and computer scientists, and engineers, and whatever these students decide to be). We show them the nice part of academia, we tell them they belong. And, hopefully, it will give them the strength to stay through the not so nice parts. Hopefully, a time will come where they will be organizing events and training students and shaping a better (academic) world where ever they are. It's already working. The reason we have such an amazing Colombian organizing crew is because someone (this someone is actually called Federico Ardilla) pushed them to become the great mathematicians they are. Three of them got very recently hired at permanent positions in Colombia. Some students I met in Medellin are now pursuing PhDs in many different institutions. 
+
+To conclude, ECCO is more than a conference to me, it's a way to engage in the kind of math world I want. And at a time, where the world in general is not always going into a good direction, where borders are even harder to cross, I believe it is important to defend the "good" things.  I can proudly say **I want to do math the Colombian way**. Somebody asked me: "but will people listen to you?". I answer: "I'll make them".
+
+
