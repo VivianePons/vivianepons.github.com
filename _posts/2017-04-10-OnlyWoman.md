@@ -40,7 +40,7 @@ for themselves if they did not want to look like idiots.
 
 When I finished undergrad, I spent two years as a web developer in Ireland. It was a small
 family business, many people came and left. All in all, in the dev team, I can remember around
-8 guys and 1 girl, who stayed only for a few month. So, basically, most of the time I
+8 guys and 1 girl, who stayed only for a few months. So, basically, most of the time I
 spent there, I was the only woman (2 other women worked in the company in the commercial team,
 one was the boss's daughter and the other one was the other boss's wife). Then I
 went back to school and started a master's degree in Mathematics. We were a small group
@@ -88,7 +88,7 @@ by recognizing it in other people's stories.
 The second event that opened my consciousness was *not* a woman event. It was one year
 later when I first attended [PyCon](https://en.wikipedia.org/wiki/Python_Conference).
 It was also the biggest event I had ever been to and the first time I was attending 
-a non-academic conference. Because it was about a programming language, I was excepting
+a non-academic conference. Because it was about a programming language, I was expecting
 a bunch of nerd guys and no woman. Why? Because that's what I knew! I had been part
 of the [SageMath](http://www.sagemath.org/) community since the beginning of my thesis.
 This is how I got into python, how I discovered open-source development and philosophy, versionning
@@ -104,7 +104,7 @@ the end of my thesis, I think I knew only one other woman in my field that was h
 in Sage. The [sage-devel](https://groups.google.com/forum/#!forum/sage-devel) mailing list
 is almost 100% men contribution (I think more than 99%). Whenever I attended a Sage 
 workshop, especially if it was development-focused as opposed to discovering-sage-focused,
-it often happened that I was the only woman. So when I attended PyCon, I was excepting
+it often happened that I was the only woman. So when I attended PyCon, I was expecting
 the same thing.
 
 And what a surprise! There were so many women! I don't know what was the ratio among participants,
@@ -124,7 +124,7 @@ for which I am now running the Paris chapter.
 # And now
 
 Not long after I attended PyCon, I got my permanent position in Paris-Sud where I
-have been since. My work load was heavy, teaching and research kept me very busy.
+have been ever since. My work load was heavy, teaching and research kept me very busy.
 But the idea of feminism and activism was always in the back of my head. I did not
 have the time to organize anything but kept following the groups and women I had met
 at PyCon. So when [@Patjouk](https://twitter.com/Patjouk) started PyLadies Paris, I
