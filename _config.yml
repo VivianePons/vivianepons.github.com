@@ -8,7 +8,7 @@ baseurl: ""
 url: "http://openpyviv.com"
 twitter_username: PyViv
 github_username:  VivianePons
-plugins: [jekyll-paginate]
+plugins: [jekyll-paginate, jekyll-redirect-from]
 disqus_shortname: openpyviv
 
 # Build settings

@@ -8,6 +8,7 @@ tags:
     - diversity
     - academia
     - motherhood
+redirect_from: "/2019/02/11/baby-vs-cirm/"
 ---
 
 Long before I had any plan of becoming a mother myself, it seemed clear to me that defending young parents, especially young mothers, was a feminist issue worth fighting for. From my own observations, I could see that academic life, despise its flexibility, [was not always adapted to family life](https://psawomenpolitics.com/2016/02/26/academia-and-motherhood-the-impossible-combination-of-parenthood-and-womanhood/). I could see that mothers especially had to pay a [hard career prize](http://curt-rice.com/2011/12/08/the-motherhood-penalty-its-not-children-that-slow-mothers-down/). Now that I am about to experience it first hand in just few weeks, I take an ever more personal interest into this question, and yes, I am ready to fight!
