@@ -2,7 +2,7 @@
 layout:     post
 title:      "Babies vs CIRM"
 subtitle:   "How mathematician mothers changed an unfair policy"
-date:       2019-02-11 09:00:00
+date:       2019-06-08 09:00:00
 author:     "Viviane"
 tags: 
     - diversity
