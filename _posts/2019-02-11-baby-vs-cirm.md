@@ -53,3 +53,5 @@ But things changed. They changed because women and allies did not give up. There
 
 My conclusion is: we should never give up. When we see unfair policies, when we see things that are wrong, we should voice it, especially when we have a position which allows us to do it (it is much easier to voice concerns and resist when we have a permanent job than when we are a student or in a precarious position). Even more importantly, we should listen. We should never dismiss the concerns and issues faced by others. Indeed, man or woman, if we DO hold a little bit of power inside the institution, we are probably not the ones affected first hand by bad policies. We might not win every time, we might not win today, but if we let it pass, then nothing will ever change. Things can change, the CIRM changed.
 
+As a bonus, [here is the open letter](https://www.mathematik.uni-marburg.de/~agricola/ewm-open-letter.html) written a few years ago by a female mathematician who could not attend a CIRM event due to this absurd policy. It is not the only one that was written. I am aware of at least one other which circulated through emails among French mathematicians.
+
